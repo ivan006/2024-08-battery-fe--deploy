@@ -1,0 +1,1 @@
+import{t as e,V as o,d as t,H as s,I as n,J as r,L as _}from"./vendor.js";const c={class:"q-pa-md container-md guestRegistration"},g={__name:"guestRegistration",setup(i){e(1);const a=e(o.get("VITE_AUTH"));return(d,u)=>(t(),s("div",c,[a.value?_("",!0):(t(),s(n,{key:0},[r(" ddd ")],64))]))}};export{g as default};
