@@ -1,1 +1,1 @@
-import{s as o}from"./index.js";import"./vendor.js";var e=({app:r})=>{r.use(o)};export{e as default};
+import{s}from"./index.js";import"./vendor.js";const e=({app:o})=>{o.use(s)};export{e as default};
