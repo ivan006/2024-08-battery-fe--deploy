@@ -1,1 +1,1 @@
-import{_ as a,r,e as n,d as s,w as e,q as _,s as t,t as c}from"./vendor.js";const u={};function l(f,i){const o=r("router-view");return n(),s(_,null,{default:e(()=>[t(c,null,{default:e(()=>[t(o)]),_:1})]),_:1})}const d=a(u,[["render",l],["__file","EmptyLayout.vue"]]);export{d as default};
+import{_ as a,r,e as n,c as s,w as e,q as c,s as t,t as _}from"./vendor.js";const u={};function l(f,i){const o=r("router-view");return n(),s(c,null,{default:e(()=>[t(_,null,{default:e(()=>[t(o)]),_:1})]),_:1})}const m=a(u,[["render",l],["__file","EmptyLayout.vue"]]);export{m as default};
